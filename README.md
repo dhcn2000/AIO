@@ -9,3 +9,6 @@ Bilibili频道地址:[孔昊天的折腾日记](https://space.bilibili.com/47378
 打赏项目的用户可加入折腾日记VIP交流群，获取有限的技术支持 [前往发电]
 ![微信图片_20240723181617](https://github.com/user-attachments/assets/105d8f5e-778b-4768-bae9-fa8454b5bfb4)
 请备注联系方式。
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/105d8f5e-778b-4768-bae9-fa8454b5bfb4" alt="Image" width="200" height="200">
+</p>
