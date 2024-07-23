@@ -6,4 +6,6 @@
 Youtube频道地址:[孔昊天的折腾日记](https://www.youtube.com/@user-ek1qg7ti5r)    
 Bilibili频道地址:[孔昊天的折腾日记](https://space.bilibili.com/473781263/video)  
 # 打赏项目：
-打赏项目的用户可加入折腾日记VIP群，获取有限的技术支持 [前往发电](https://afdian.com/a/tossdiary)
+打赏项目的用户可加入折腾日记VIP交流群，获取有限的技术支持 [前往发电]
+![微信图片_20240723181617](https://github.com/user-attachments/assets/105d8f5e-778b-4768-bae9-fa8454b5bfb4)
+请备注联系方式。
