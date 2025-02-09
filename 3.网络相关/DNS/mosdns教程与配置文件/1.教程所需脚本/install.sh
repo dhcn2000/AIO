@@ -16,7 +16,7 @@ cd /home
 FILE_NAME1="mosdns-linux-amd64.zip"
 
 # 定义下载URL
-DOWNLOAD_URL1="https://github.com/IrineSistiana/mosdns/releases/download/v5.3.1/$FILE_NAME1"
+DOWNLOAD_URL1="https://github.404cafe.fun/https://github.com/IrineSistiana/mosdns/releases/download/v5.3.3/$FILE_NAME1"
 
 
 # 检查并删除已有的文件
@@ -175,7 +175,7 @@ echo "所有操作已完成!"
 # 清除 /etc/mosdns/config.yaml 的内容
 rm -f /etc/mosdns/config.yaml
 
-curl -L https://github.com/KHTdhl/AIO/releases/download/v1.0/mosdns-config.yaml -o /etc/mosdns/config.yaml
+curl -L https://github.404cafe.fun/https://github.com/dhcn2000/AIO/releases/download/v1.0/mosdns-config.yaml -o /etc/mosdns/config.yaml
 
 sleep 1
 
@@ -185,7 +185,7 @@ cd /etc/mosdns
 
 touch {geosite_cn,geoip_cn,geosite_geolocation_noncn,gfw}.txt
 
-curl -L https://github.com/KHTdhl/AIO/releases/download/v1.0/mos_rule_update.sh -o /etc/mosdns/mos_rule_update.sh
+curl -L https://github.404cafe.fun/https://github.com/dhcn2000/AIO/releases/download/v1.0/mos_rule_update.sh -o /etc/mosdns/mos_rule_update.sh
 
 
 # 设置脚本为可执行
@@ -230,7 +230,7 @@ cd /home
 FILE_NAME2="loki_3.1.0_amd64.deb"
 
 # 定义下载URL
-DOWNLOAD_URL2="https://github.com/grafana/loki/releases/download/v3.1.0/$FILE_NAME2"
+DOWNLOAD_URL2="https://github.404cafe.fun/https://github.com/grafana/loki/releases/download/v3.1.0/$FILE_NAME2"
 
 
 # 检查并删除已有的文件
@@ -380,7 +380,7 @@ fi
 
 rm -f /root/.vector/config/vector.yaml
 
-curl -L https://github.com/KHTdhl/AIO/releases/download/v1.0/vector.yaml -o /root/.vector/config/vector.yaml
+curl -L https://github.404cafe.fun/https://github.com/dhcn2000/AIO/releases/download/v1.0/vector.yaml -o /root/.vector/config/vector.yaml
 
 cd /etc/systemd/system/
 
